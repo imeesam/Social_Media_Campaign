@@ -64,11 +64,11 @@ Enabling smooth integration with external reporting workflows.
 ### **Processed Campaign Visualization Example**
 
 <img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
-<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
-<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
-<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
-<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
-<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales2.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales3.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales4.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales5.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales6.PNG" alt="Processed Visualization" width="600"/>
 
 ---
 
