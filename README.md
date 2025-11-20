@@ -1,4 +1,4 @@
-# Social Media Campaign Analysis Dashboard
+# Social Media Campaign Analysis 
 
 **(Streamlit · Plotly · PythonAnywhere Deployment)**
 
@@ -63,12 +63,12 @@ Enabling smooth integration with external reporting workflows.
 
 ### **Processed Campaign Visualization Example**
 
-<img src="templates/sales1.png" alt="Processed Visualization" width="600"/>
-<img src="templates/sales2.png" alt="Processed Visualization" width="600"/>
-<img src="templates/sales3.png" alt="Processed Visualization" width="600"/>
-<img src="templates/sales4.png" alt="Processed Visualization" width="600"/>
-<img src="templates/sales5.png" alt="Processed Visualization" width="600"/>
-<img src="templates/sales6.png" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
+<img src="templates/sales1.PNG" alt="Processed Visualization" width="600"/>
 
 ---
 
