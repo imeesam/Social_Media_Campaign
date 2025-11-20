@@ -1,7 +1,0 @@
-streamlit 
-plotly.express 
-pandas
-sqlite3/mysql
-os
-warnings
-datetime
